@@ -1,0 +1,284 @@
+{
+    "commentid1": {
+        "author": "userid1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "teamid": "teamid1",
+        "date": "2022-01-05"
+    },
+    "commentid2": {
+        "author": "userid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "teamid2",
+        "date": "2022-01-17"
+    },
+    "commentid3": {
+        "author": "userid7",
+        "text": "Hajr\u00e1!",
+        "teamid": "teamid3",
+        "date": "2022-01-05"
+    },
+    "commentid4": {
+        "author": "userid5",
+        "text": "A kedvenc csapatooom!",
+        "teamid": "teamid4",
+        "date": "2022-01-17"
+    },
+    "commentid5": {
+        "author": "userid6",
+        "text": "\u00c9n nekik szurkolok",
+        "teamid": "teamid5",
+        "date": "2022-01-05"
+    },
+    "commentid6": {
+        "author": "userid4",
+        "text": "B\u00e9n\u00e1k vagytok!",
+        "teamid": "teamid6",
+        "date": "2022-01-17"
+    },
+    "commentid7": {
+        "author": "userid3",
+        "text": "A b\u00edr\u00f3 nem volt norm\u00e1lis",
+        "teamid": "teamid7",
+        "date": "2022-01-05"
+    },
+    "commentid8": {
+        "author": "userid3",
+        "text": "A kapus a leghelyesebb <3",
+        "teamid": "teamid8",
+        "date": "2022-01-17"
+    },
+    "commentid9": {
+        "author": "userid1",
+        "text": "Hajr\u00e1, szor\u00edtok \u00e9rtetek!",
+        "teamid": "teamid9",
+        "date": "2022-01-05"
+    },
+    "commentid10": {
+        "author": "userid2",
+        "text": "Miattatok vesztettem tipmixen!",
+        "teamid": "teamid10",
+        "date": "2022-01-17"
+    },
+    "commentid11": {
+        "author": "userid1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "teamid": "teamid11",
+        "date": "2022-01-05"
+    },
+    "commentid12": {
+        "author": "userid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "teamid12",
+        "date": "2022-01-17"
+    },
+    "commentid13": {
+        "author": "userid7",
+        "text": "Hajr\u00e1!",
+        "teamid": "teamid13",
+        "date": "2022-01-05"
+    },
+    "commentid14": {
+        "author": "userid5",
+        "text": "A kedvenc csapatooom!",
+        "teamid": "teamid14",
+        "date": "2022-01-17"
+    },
+    "commentid15": {
+        "author": "userid6",
+        "text": "\u00c9n nekik szurkolok",
+        "teamid": "teamid15",
+        "date": "2022-01-05"
+    },
+    "commentid16": {
+        "author": "userid4",
+        "text": "B\u00e9n\u00e1k vagytok!",
+        "teamid": "teamid16",
+        "date": "2022-01-17"
+    },
+    "commentid17": {
+        "author": "userid3",
+        "text": "A b\u00edr\u00f3 nem volt norm\u00e1lis",
+        "teamid": "teamid17",
+        "date": "2022-01-05"
+    },
+    "commentid18": {
+        "author": "userid3",
+        "text": "A kapus a leghelyesebb <3",
+        "teamid": "teamid18",
+        "date": "2022-01-17"
+    },
+    "commentid19": {
+        "author": "userid1",
+        "text": "Hajr\u00e1, szor\u00edtok \u00e9rtetek!",
+        "teamid": "teamid19",
+        "date": "2022-01-05"
+    },
+    "commentid20": {
+        "author": "userid2",
+        "text": "Miattatok nyertem tipmixen!",
+        "teamid": "teamid1",
+        "date": "2022-01-17"
+    },
+    "commentid21": {
+        "author": "userid5",
+        "text": "A Bayern M\u00fcnchen fog nyerni!",
+        "teamid": "teamid1",
+        "date": "2022-01-05"
+    },
+    "commentid22": {
+        "author": "userid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "teamid1",
+        "date": "2022-01-17"
+    },
+    "commentid23": {
+        "author": "userid7",
+        "text": "Hajr\u00e1!",
+        "teamid": "teamid9",
+        "date": "2022-01-05"
+    },
+    "commentid24": {
+        "author": "userid5",
+        "text": "A kedvenc csapatooom!",
+        "teamid": "teamid4",
+        "date": "2022-01-17"
+    },
+    "commentid25": {
+        "author": "userid6",
+        "text": "\u00c9n nekik szurkolok",
+        "teamid": "teamid12",
+        "date": "2022-01-05"
+    },
+    "commentid26": {
+        "author": "userid4",
+        "text": "B\u00e9n\u00e1k vagytok!",
+        "teamid": "teamid9",
+        "date": "2022-01-17"
+    },
+    "commentid27": {
+        "author": "userid3",
+        "text": "A b\u00edr\u00f3 nem volt norm\u00e1lis",
+        "teamid": "teamid15",
+        "date": "2022-01-05"
+    },
+    "commentid28": {
+        "author": "userid3",
+        "text": "A kapus a leghelyesebb <3",
+        "teamid": "teamid19",
+        "date": "2022-01-17"
+    },
+    "commentid29": {
+        "author": "userid1",
+        "text": "Hajr\u00e1, szor\u00edtok \u00e9rtetek!",
+        "teamid": "teamid9",
+        "date": "2022-01-05"
+    },
+    "commentid30": {
+        "author": "userid2",
+        "text": "Miattatok vesztettem tipmixen!",
+        "teamid": "teamid9",
+        "date": "2022-01-17"
+    },
+    "commentid31": {
+        "author": "userid1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "teamid": "teamid19",
+        "date": "2022-01-05"
+    },
+    "commentid32": {
+        "author": "userid2",
+        "text": "A legut\u00f3bbi meccs nagyon izgalmas volt!",
+        "teamid": "teamid2",
+        "date": "2022-01-17"
+    },
+    "commentid33": {
+        "author": "userid7",
+        "text": "Hajr\u00e1!",
+        "teamid": "teamid3",
+        "date": "2022-01-05"
+    },
+    "commentid34": {
+        "author": "userid5",
+        "text": "A kedvenc csapatooom!",
+        "teamid": "teamid13",
+        "date": "2022-01-17"
+    },
+    "commentid35": {
+        "author": "userid6",
+        "text": "\u00c9n nekik szurkolok",
+        "teamid": "teamid5",
+        "date": "2022-01-05"
+    },
+    "commentid36": {
+        "author": "userid4",
+        "text": "B\u00e9n\u00e1k vagytok!",
+        "teamid": "teamid12",
+        "date": "2022-01-17"
+    },
+    "commentid37": {
+        "author": "userid3",
+        "text": "A b\u00edr\u00f3 nem volt norm\u00e1lis",
+        "teamid": "teamid2",
+        "date": "2022-01-05"
+    },
+    "commentid38": {
+        "author": "userid3",
+        "text": "A kapus a leghelyesebb <3",
+        "teamid": "teamid3",
+        "date": "2022-01-17"
+    },
+    "commentid39": {
+        "author": "userid1",
+        "text": "Hajr\u00e1, szor\u00edtok \u00e9rtetek!",
+        "teamid": "teamid4",
+        "date": "2022-01-05"
+    },
+    "commentid40": {
+        "author": "userid2",
+        "text": "Miattatok nyertem tipmixen!",
+        "teamid": "teamid5",
+        "date": "2022-01-17"
+    },
+    "61e9cef608bf8": {
+        "author": "userid1",
+        "text": "Nagyon szeretem a Realt, \u0151k a legjobbak!",
+        "teamid": "teamid4",
+        "date": "2022-01-20",
+        "id": "61e9cef608bf8"
+    },
+    "61e9de2389bab": {
+        "author": "userid1",
+        "text": "Szupi csapat!",
+        "teamid": "teamid18",
+        "date": "2022-01-20",
+        "id": "61e9de2389bab"
+    },
+    "61e9de2d64275": {
+        "author": "userid1",
+        "text": "Szupi csapat!",
+        "teamid": "teamid18",
+        "date": "2022-01-20",
+        "id": "61e9de2d64275"
+    },
+    "61e9df2ad17bd": {
+        "author": "userid1",
+        "text": "\u00dcgyesek!",
+        "teamid": "teamid12",
+        "date": "2022-01-20",
+        "id": "61e9df2ad17bd"
+    },
+    "61e9df43c1d88": {
+        "author": "userid1",
+        "text": "Hajr\u00e1\u00e1\u00e1!",
+        "teamid": "teamid4",
+        "date": "2022-01-20",
+        "id": "61e9df43c1d88"
+    },
+    "61e9e1b1d9e22": {
+        "author": "userid0",
+        "text": "Legjobbak!",
+        "teamid": "teamid18",
+        "date": "2022-01-20",
+        "id": "61e9e1b1d9e22"
+    }
+}
