@@ -188,6 +188,9 @@ form {
     color: rgb(3, 3, 3);
     font-weight: bold;
 }
+.logoimg{
+    width: 150px;
+}
 
 button {
     align-items: center;
