@@ -23,7 +23,7 @@ function validateregister($post, &$data, &$errors) {
         $errors['email'] = 'Email address is required';
     } else if (trim($post['email']) === '') {
         $errors['email'] = 'Email address is required';
-    } else if (strpos($post['email'], "@")) { 
+    } else if (!strpos($post['email'], "@")) { 
         $errors['email'] = 'The email address is not valid';
     } else{
         $data['email'] = $post['email'];

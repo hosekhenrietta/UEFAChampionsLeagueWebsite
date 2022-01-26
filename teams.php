@@ -105,7 +105,7 @@ if ((sizeof($post) > 0)) {
     <button type="button" class="log" onclick="window.location.href='register.php'"><?= isset($_SESSION['username']) ? "Hello ".$_SESSION['username'] : "Register" ?></button>
 
 
-<h1><?= $myTeam['name'] ?></h1>
+<h1><?= $myTeam['name'] ?></h1> <img class="logoimg" src="pictures/<?= $myTeam['id'] ?>.png" >
 <h4><?= $myTeam['country'] ?></h4>
 
 
